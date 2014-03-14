@@ -7,9 +7,9 @@ Slamhoundify (thats definitly a word) the currently active file in LightTable.
 
 ##Usage
 
-Plugin is available via LightTable 'Commands' lookup. Just start typing 'slamh...' and run the 'Slamound-lt: Preview' command.
+Plugin is available via LightTable 'Commands' lookup. Just start typing 'slamh...' and run the `Slamound-lt: Preview` command.
 
-Optionally assign shortcut to `:lt.plugins.slamhound-lt/slamhound` command in you user.keymap file.               
+Optionally assign shortcut to `:lt.plugins.slamhound-lt/slamhound` command in you `user.keymap` file.               
 
 i.e. `"ctrl-shift-s" [:lt.plugins.slamhound-lt/slamhound]`
 
