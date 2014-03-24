@@ -7,17 +7,15 @@ Slamhoundify (thats definitly a word) the currently active file in LightTable.
 
 ##Usage
 
-Plugin is available via LightTable 'Commands' lookup. Just start typing 'slamh...' and run the `Slamound-lt: Preview` command.
+Plugin is available via LightTable 'Commands' lookup. Just start typing 'slamh...' and run the `Slamound-lt: Reconstruct namespace` command.
 
-Optionally assign shortcut to `:lt.plugins.slamhound-lt/slamhound` command in your `user.keymap` file.               
+Optionally assign shortcut to `:lt.plugins.slamhound-lt/slamhound` command in your `user.keymap` file.
 
 i.e. `"ctrl-shift-s" [:lt.plugins.slamhound-lt/slamhound]`
 
-##Whats Next...
+## 0.0.3
 
-Currently only provides the inline suggestion, which you must manually copy / paste over your current ns declaration.
-
-Future versions will have the option to automatically replace the ns with the slamhound suggestion. Honestly, I'm still working out the LightTable framework so pull requests are very welcome if anyone wants to help out on this :-)
+As of version 0.0.3 the namespace is completley reconstructed, not just suggested.
 
 ##Installation
 
