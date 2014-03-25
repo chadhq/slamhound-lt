@@ -3,7 +3,7 @@ slamhound-lt
 
 Slamhoundify (thats definitly a word) the currently active file in LightTable.
 
-![Screenshot](http://chadhq.com/content/images/2014/Mar/slamhound_3.jpg)
+![Screenshot](http://chadhq.com/content/images/2014/Mar/slamhound_4.jpg)
 
 ##Usage
 
